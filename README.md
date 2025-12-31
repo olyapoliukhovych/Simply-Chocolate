@@ -1,4 +1,4 @@
-# 🍫 Simply Chocolate
+# Simply Chocolate
 
 A sleek, responsive landing page for a premium chocolate brand. This project focuses on high-quality visuals, smooth transitions, and a clean user journey from product discovery to customer reviews.
 
@@ -18,3 +18,4 @@ I built this project to practice creating a cohesive brand experience. Here’s 
 
 ## 📸 Preview
 <img width="1434" height="680" alt="choco-preview" src="https://github.com/user-attachments/assets/4a8b22a5-5d57-4a63-8b96-ca0ba8fc959f" />
+
