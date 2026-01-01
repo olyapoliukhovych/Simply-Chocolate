@@ -38,7 +38,7 @@
     />
 
     <!-- css -->
-    <link rel="stylesheet" href="css/styles.css" />
+    <link rel="preload" rel="stylesheet" href="css/styles.css" />
 
     <!-- modern normalize -->
     <link
@@ -50,6 +50,7 @@
     <link rel="preconnect" href="https://fonts.googleapis.com" />
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
     <link
+      rel="preconnect"
       href="https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100..900;1,100..900&display=swap"
       rel="stylesheet"
     />
@@ -1181,7 +1182,7 @@
       </div>
     </div>
 
-    <script src="./menu.js" type="module"></script>
-    <script src="./modal.js" type="module"></script>
+    <script src="./menu.js" type="module" defer></script>
+    <script src="./modal.js" type="module" defer></script>
   </body>
 </html>
